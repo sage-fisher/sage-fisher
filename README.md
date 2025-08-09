@@ -27,9 +27,8 @@ Here are some of the technologies I work with:
 
 ### 📫 How to reach me:
 
-* **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
-* **Email:** your.email@example.com
-
+* **LinkedIn:**
+* **Email:** 
 ---
 
 ### 📊 My GitHub Stats:
